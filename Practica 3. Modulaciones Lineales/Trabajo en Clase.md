@@ -53,12 +53,10 @@ La **Práctica 3** está centrada en la **modulación de amplitud (AM)**, con el
 3. **Caso 3**: Ancho de banda = 1.9467 MHz.
 
 ## Archivos del Proyecto:
-- **`Practica_3_ParteA.grc`**: Diagrama de bloques en GNU Radio para la construcción del modulador AM y análisis de la envolvente compleja.
-- **`Practica_3_ParteB.grc`**: Diagrama de bloques para la modulación con señales aleatorias (audio y binarias).
-- **`Practica_3_ParteA.py`**: Script en Python para la Parte A de la práctica.
-- **`Practica_3_ParteB.py`**: Script en Python para la Parte B de la práctica.
-- **`Captura_ParteA.png`**: Imagen de la señal modulada en AM (Parte A).
-- **`Captura_ParteB.png`**: Imagen de la señal modulada con señal binaria (Parte B).
+- **`Practica3A.grc`**: Diagrama de bloques en GNU Radio para la construcción del modulador AM y análisis de la envolvente compleja.
+- **`lab3_parteb2.grc`**: Diagrama de bloques para la modulación con señales aleatorias (audio y binarias).
+- **`Practica3A.py`**: Script en Python para la Parte A de la práctica.
+- **`Practica3_ParteB_Punto2.py`**: Script en Python para la Parte B de la práctica.
 
 ## Conclusiones:
 - **Modulación en AM**: La modulación de amplitud es un proceso eficiente para la transmisión de señales en sistemas de comunicación, y la selección del índice de modulación adecuado es crucial para evitar distorsiones.
